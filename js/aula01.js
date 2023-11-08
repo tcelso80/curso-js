@@ -9,6 +9,7 @@ let minhaIdade = 43 // number
 let heDoador = true // boolean 
 let teste = null
 
+
 console.log(menssagem2);
 
 // CRIAR CONSTRAINT 
